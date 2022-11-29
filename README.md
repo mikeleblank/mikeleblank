@@ -11,7 +11,7 @@
 
 
 
-* ##Contacto:
+* ## Contacto:
 
 * 📫  blancoangelmiuguel@gmail.com
 
@@ -21,7 +21,7 @@
 
 
 
-* ##Skills:
+* ## Skills:
 
 - **Redes / Mikrotik / Enlaces Inalambricos**
 
@@ -29,4 +29,4 @@
 
 - **Windows Server**
 
-- **Redes / Mikrotik**
+

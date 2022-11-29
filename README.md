@@ -5,14 +5,16 @@
 
 - 🌱 Road to **DevOps** **Cybersecurity**
 
-- 📫 Contacto **blancoangelmiguel@gmail.com**
-
 - ⚡ **Considero fundamental capacitarme en nuevas tecnologías, que me permitan enriquecer mi labor y seguir aprendiendo constantemente.**
 
-<h3 align="left">Connect with me:</h3>
+- 💬 **Piloto drone DJI por hobby**
+
+<h3 align="left"> 📫 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mikeleblank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mikeleblank" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/miguel-a-blanco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miguel-a-blanco/" height="30" width="40" /></a>
+<a href="http://miguelblanco.ar" target="blank"><img align="center" src="https://icons8.com/icon/D5gSv3nQRkya/www" alt="http://miguelblanco.ar" height="30" width="40" /></a>
+<a href="https://instagram.com/mikeleblank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mikeleblank" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

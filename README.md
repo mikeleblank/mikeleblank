@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Miguel</h1>
 <h3 align="center">Fundador de Miguel Blanco Servicios Informáticos. Que tiene como objetivo principal brindar soporte y soluciones IT a pequeñas y medianas empresas desde hace más de 10 años. </h3>
 
-
+<br> </br>
 
 - 🌱 Road to **DevOps** **Cybersecurity**
 

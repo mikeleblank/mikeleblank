@@ -23,7 +23,7 @@
 
 * ## Skills:
 
-- **Redes / Mikrotik / Enlaces Inalambricos**
+- **Redes / Mikrotik / Enlaces Inalámbricos**
 
 - **Linux Server**
 

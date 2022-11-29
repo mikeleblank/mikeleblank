@@ -7,7 +7,7 @@
 
 - ⚡ **Considero fundamental capacitarme en nuevas tecnologías, que me permitan enriquecer mi labor y seguir aprendiendo constantemente.**
 
-- 💬 **Hobby piloto drone DJI - Contenido en [INSTAGRAM](https://instagram.com/mikeleblank) **
+- 💬 **Hobby piloto drone DJI - Contenido en [INSTAGRAM](https://instagram.com/mikeleblank)**
 
 
 

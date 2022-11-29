@@ -7,7 +7,7 @@
 
 - ⚡ **Considero fundamental capacitarme en nuevas tecnologías, que me permitan enriquecer mi labor y seguir aprendiendo constantemente.**
 
-- 💬 **HOBBY PILOTO DRONE DJI **
+- 💬 **HOBBY PILOTO DRONE DJI**
 
 
 

@@ -9,9 +9,9 @@
 
 - 💬 **Hobby**
 	
-	**Piloto drone DJI - Contenido en [INSTAGRAM](https://instagram.com/mikeleblank)**
+	- **Piloto drone DJI - Contenido en [INSTAGRAM](https://instagram.com/mikeleblank)**
 
-	**Mini proyectos ARDUINO // RASPBERRY // DISPOSITIVOS DE SEGURIDAD**
+	- **Mini proyectos ARDUINO // RASPBERRY // DISPOSITIVOS DE SEGURIDAD**
 	 
 
 * ## Contacto:

@@ -13,7 +13,7 @@
 
 * ## Contacto:
 
-* 📫  blancoangelmiuguel@gmail.com
+* 📫  blancoangelmiguel@gmail.com
 
 * [LinkedIn](https://linkedin.com/in/miguel-a-blanco/)
 
